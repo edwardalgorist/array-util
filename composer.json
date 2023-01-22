@@ -8,7 +8,7 @@
     "keywords": ["php", "package", "arrays"],
     "autoload": {
         "psr-4": {
-            "Edwardalgorist\\ArrayUtil\\": "src/"
+            "EdwardAlgorist\\ArrayUtil\\": "src/"
         }
     },
     "authors": [
