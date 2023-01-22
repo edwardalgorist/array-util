@@ -1,0 +1,31 @@
+{
+
+    "name": "edwardalgorist/array-util",
+    "description": "A simple PHP class that provides a wrapper for common array functions.",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["php", "package", "arrays"],
+    "autoload": {
+        "psr-4": {
+            "Edwardalgorist\\ArrayUtil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edward Nyirenda Jr.",
+            "email": "edwardnyirendajr@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true,
+        "preferred-install": "dist",
+        "optimize-autoloader": true
+    }
+
+}
